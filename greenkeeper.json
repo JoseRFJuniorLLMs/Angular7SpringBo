@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "spring-boot-jwt-auth-master/angular7-crud-example/package.json"
+      ]
+    }
+  }
+}
